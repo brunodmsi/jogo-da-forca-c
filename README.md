@@ -1,6 +1,8 @@
 # jogo-da-velha-c
 Jogo da Velha em C que salva
 
+**RODAR NA IDE DEV C++... JOGAR EM UMA PASTA E RODAR
+
 
 O jogo foi desenvolvido seguindo este comando de questao:
 
