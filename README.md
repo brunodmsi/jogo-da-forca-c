@@ -1,5 +1,5 @@
-# jogo-da-velha-c
-Jogo da Velha em C que salva
+# jogo-da-forca-c
+Jogo da Forca em C que salva
 
 **RODAR NA IDE DEV C++... JOGAR EM UMA PASTA E RODAR
 
