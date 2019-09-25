@@ -8,12 +8,12 @@ O jogo foi desenvolvido seguindo este comando de questao:
 
 	_ _ _ _ _ _   _ _   _ _ _
 
-  A cada rodada o user deve tentar acertar uma letra. Se acertar, a palavra eh apresentada trocando o _ pela letra em questao;
-  Caso o usuario erre a letra ou repita uma letra ja dita, entao ele devera perder uma de suas chances;
-  O user inicia com 6 chances para acertar e a cada erro perde uma chance e um pedaco do stickman (homem-palito) eh desenhada. 
-  *Use a funcao STRCAT para desenhar o stickman.*
-  Ao fim de cada rodada o programa devera salvar o progresso do jogo em arquivo de texto.
- *Use um arquivo chamado forca.prova para guardar o progresso total do jogo.*
+  A cada rodada o user deve tentar acertar uma letra. Se acertar, a palavra eh apresentada trocando o _ pela letra em questao;  
+  Caso o usuario erre a letra ou repita uma letra ja dita, entao ele devera perder uma de suas chances;  
+  O user inicia com 6 chances para acertar e a cada erro perde uma chance e um pedaco do stickman (homem-palito) eh desenhada.   
+  *Use a funcao STRCAT para desenhar o stickman.*  
+  Ao fim de cada rodada o programa devera salvar o progresso do jogo em arquivo de texto.  
+  *Use um arquivo chamado forca.prova para guardar o progresso total do jogo.*  
 
 ## Como usar?
 Muito simples, você pode rodar na IDE do Dev C++ (ou uma de sua preferência) ou rodar os seguintes comandos no terminal:
